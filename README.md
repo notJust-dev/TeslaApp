@@ -1,15 +1,5 @@
-# Expo Router Example
+# Tesla Clone
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This project was build by Vadim during this [live stream](https://www.youtube.com/watch?v=UzdN1Xj8iq8)
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+Follow the step by step guid on notJust.dev: [Let's build the Tesla app with React Native](https://www.notjust.dev/projects/tesla-clone-with-react-native)
